@@ -1,0 +1,544 @@
+C:\Users\ferre\Desktop\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.csprojAssemblyReference.cache
+C:\Users\ferre\Desktop\Projeto Refrigeração\obj\Debug\Projeto_Refrigeração.Properties.Resources.resources
+C:\Users\ferre\Desktop\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.csproj.GenerateResource.cache
+C:\Users\ferre\Desktop\Projeto Refrigeração\obj\Debug\Refrigeracao.Form1.resources
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\Projeto Refrigeração.exe.config
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\Projeto Refrigeração.exe
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\Projeto Refrigeração.pdb
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\EasyModbus.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.csproj.CopyComplete
+C:\Users\ferre\Desktop\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.exe
+C:\Users\ferre\Desktop\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.pdb
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\Npgsql.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\System.Buffers.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\System.Memory.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\System.Text.Json.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\System.ValueTuple.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\Npgsql.pdb
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\Npgsql.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\System.Buffers.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\System.Memory.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\System.Text.Json.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\bin\Debug\System.ValueTuple.xml
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.csprojResolveAssemblyReference.cache
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.csproj.Projeto Refrigeração.exe.config
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\obj\Debug\Refrigeracao.Form1.resources
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\obj\Debug\Projeto_Refrigeração.Properties.Resources.resources
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.csproj.GenerateResource.Cache
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.csproj.CoreCompileInputs.cache
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.exe
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.pdb
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\Projeto Refrigeração.exe.config
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\Projeto Refrigeração.exe
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\Projeto Refrigeração.pdb
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\netstandard.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.AppContext.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Collections.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Collections.Specialized.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.ComponentModel.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Console.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Data.Common.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Globalization.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.IO.Compression.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.IO.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.IO.FileSystem.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.IO.Pipes.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Linq.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Linq.Expressions.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Linq.Parallel.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Linq.Queryable.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Net.Http.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Net.NameResolution.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Net.Ping.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Net.Primitives.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Net.Requests.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Net.Security.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Net.Sockets.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Net.WebSockets.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.ObjectModel.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Reflection.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Resources.Reader.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Resources.Writer.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.Handles.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Security.Claims.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Security.Principal.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Security.SecureString.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Text.Encoding.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Threading.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Threading.Tasks.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Threading.Thread.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Threading.Timer.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Xml.XDocument.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Xml.XPath.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\Npgsql.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Buffers.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Memory.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Text.Json.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.ValueTuple.dll
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\Npgsql.pdb
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\Npgsql.xml
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Buffers.xml
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Memory.xml
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Text.Json.xml
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\bin\Debug\System.ValueTuple.xml
+C:\Users\higor.melo\Desktop\Projeto Refrigeração\obj\Debug\Refrigeracao.Grafico.resources
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.csprojAssemblyReference.cache
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.exe.config
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\obj\Debug\Refrigeracao.Form1.resources
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\obj\Debug\Refrigeracao.Grafico.resources
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\obj\Debug\Projeto_Refrigeração.Properties.Resources.resources
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.csproj.GenerateResource.cache
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.exe
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.pdb
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\Projeto Refrigeração.exe.config
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\Projeto Refrigeração.exe
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\Projeto Refrigeração.pdb
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\netstandard.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.AppContext.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Collections.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Collections.Specialized.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.ComponentModel.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Console.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Data.Common.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Globalization.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.IO.Compression.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.IO.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.IO.FileSystem.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.IO.Pipes.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Linq.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Linq.Expressions.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Linq.Parallel.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Linq.Queryable.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Net.Http.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Net.NameResolution.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Net.Ping.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Net.Primitives.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Net.Requests.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Net.Security.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Net.Sockets.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Net.WebSockets.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.ObjectModel.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Reflection.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Resources.Reader.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Resources.Writer.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Runtime.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Runtime.Handles.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Security.Claims.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Security.Principal.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Security.SecureString.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Text.Encoding.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Threading.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Threading.Tasks.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Threading.Thread.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Threading.Timer.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Xml.XDocument.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Xml.XPath.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\Npgsql.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Buffers.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Memory.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Text.Json.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.ValueTuple.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\Npgsql.pdb
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\Npgsql.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Buffers.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Memory.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Text.Json.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\bin\Debug\System.ValueTuple.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\Projeto Refrigeração.exe.config
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\Projeto Refrigeração.exe
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\Projeto Refrigeração.pdb
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\netstandard.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.AppContext.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Collections.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.ComponentModel.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Console.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Data.Common.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Globalization.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.IO.Compression.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.IO.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.IO.Pipes.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Linq.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Net.Http.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Net.Ping.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Net.Primitives.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Net.Requests.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Net.Security.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Net.Sockets.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.ObjectModel.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Reflection.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Resources.Reader.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Resources.Writer.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Security.Claims.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Security.Principal.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Security.SecureString.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Text.Encoding.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Threading.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Threading.Thread.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Threading.Timer.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Xml.XPath.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\Npgsql.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Buffers.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Memory.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Text.Json.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\Npgsql.pdb
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\Npgsql.xml
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Buffers.xml
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Memory.xml
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Text.Json.xml
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrador\Desktop\Projeto Refrigeração\bin\Debug\System.ValueTuple.xml
+C:\Users\Administrador\Desktop\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.exe.config
+C:\Users\Administrador\Desktop\Projeto Refrigeração\obj\Debug\Refrigeracao.Form1.resources
+C:\Users\Administrador\Desktop\Projeto Refrigeração\obj\Debug\Refrigeracao.Grafico.resources
+C:\Users\Administrador\Desktop\Projeto Refrigeração\obj\Debug\Projeto_Refrigeração.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.exe
+C:\Users\Administrador\Desktop\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.pdb
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\Projeto Refrigeração.exe.config
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\Projeto Refrigeração.exe
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\Projeto Refrigeração.pdb
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\netstandard.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.AppContext.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Collections.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Collections.Specialized.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.ComponentModel.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Console.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Data.Common.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Globalization.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.IO.Compression.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.IO.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.IO.FileSystem.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.IO.Pipes.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Linq.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Linq.Expressions.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Linq.Parallel.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Linq.Queryable.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Net.Http.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Net.NameResolution.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Net.Ping.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Net.Primitives.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Net.Requests.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Net.Security.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Net.Sockets.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Net.WebSockets.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.ObjectModel.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Reflection.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Resources.Reader.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Resources.Writer.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Runtime.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Runtime.Handles.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Security.Claims.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Security.Principal.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Security.SecureString.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Text.Encoding.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Threading.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Threading.Tasks.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Threading.Thread.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Threading.Timer.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Xml.XDocument.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Xml.XPath.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\Npgsql.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Buffers.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Memory.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Text.Json.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.ValueTuple.dll
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\Npgsql.pdb
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\Npgsql.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Buffers.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Memory.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Text.Json.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\bin\Debug\System.ValueTuple.xml
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.csprojAssemblyReference.cache
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.exe.config
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\obj\Debug\Refrigeracao.Form1.resources
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\obj\Debug\Refrigeracao.Grafico.resources
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\obj\Debug\Projeto_Refrigeração.Properties.Resources.resources
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.csproj.GenerateResource.cache
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.csproj.CopyComplete
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.exe
+C:\Users\ferre\Desktop\Projeto Refrigeração\PROJETO FINAL\Pronto\Projeto Refrigeração\obj\Debug\Projeto Refrigeração.pdb
